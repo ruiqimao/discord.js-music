@@ -1,5 +1,10 @@
 # Discord.js Music Plugin
 
+Installation:
+```bash
+npm install discord.js-music
+```
+
 This is a music plugin for Discord.js. Using it is as easy as:
 ```javascript
 const Client = require('discord.js').Client;
