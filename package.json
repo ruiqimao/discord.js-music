@@ -12,6 +12,13 @@
   },
   "author": "Ruiqi Mao",
   "license": "ISC",
+  "keywords": [
+  	"discord",
+	"discord.js",
+	"music",
+	"bot",
+	"plugin"
+  ],
   "dependencies": {
     "youtube-dl": "^1.11.1"
   }
