@@ -1,6 +1,6 @@
 {
   "name": "discord.js-music",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Music plugin for discord.js bots",
   "main": "index.js",
   "scripts": {
