@@ -13,7 +13,7 @@ const music = require('discord.js-music');
 const client = new Client();
 music(client);
 
-client.login('< bot token here >');
+client.loginWithToken('< bot token here >');
 ```
 
 The module consists of a single function, which takes two arguments:
